@@ -1,5 +1,5 @@
 {
-  "name": "colorify",
+  "name": "hash-colorify",
   "version": "1.0.0",
   "description": "```\r import { Log } from 'codersgyan-colorify';",
   "main": "lib/index.js",

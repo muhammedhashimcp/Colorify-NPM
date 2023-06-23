@@ -1,9 +1,9 @@
-# Coder Gyan colorify library
+# Hash colorify library
 
 ### Usage
 
 ```
-import { Log } from 'codersgyan-colorify';
+import { Log } from 'hash-colorify';
 
 
 Log.success('Congratulations!');
