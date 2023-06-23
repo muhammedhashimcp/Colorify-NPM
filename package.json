@@ -1,7 +1,7 @@
 {
   "name": "hash-colorify",
-  "version": "1.0.0",
-  "description": "```\r import { Log } from 'codersgyan-colorify';",
+  "version": "1.0.1",
+  "description": "A library to colorify your console logs",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
